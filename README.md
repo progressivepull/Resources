@@ -3,7 +3,7 @@ It provides crucial information about all the repositories and maintains a homep
 
 <img src="https://github.com/progressivepull/Resources/blob/main/Graphics/resources-billboard.png" alt="Resources Billboard" width="1000" height="600">
 
-# Chapter Contents 
+# Popular Chapter Contents 
 * 1 - A layperson’s perspective on the role of a computer scientist (YouTube Welcome Mesage - 8:30)           
     Welcome to my Channel! In this cosmic journey. I will share insights from my future past while discussing day to day life of artificial intelligence psychiatrist. So, settle in and grab a sit to hear a story from ago long.      
 
